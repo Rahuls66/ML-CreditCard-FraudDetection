@@ -1,3 +1,5 @@
+***This project done for practice purpose only***
+
 Project: **Fraud Credit Card Transaction Detector**
 
 Dataset: creditcard.csv (https://www.kaggle.com/mlg-ulb/creditcardfraud)
