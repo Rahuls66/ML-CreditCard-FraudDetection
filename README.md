@@ -1,4 +1,4 @@
-***This project done for practice purpose only***
+***This project is done for practice purpose only***
 
 Project: **Fraud Credit Card Transaction Detector**
 
